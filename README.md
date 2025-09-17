@@ -18,8 +18,8 @@ A **real-time chat application** built with **Spring Boot**, allowing multiple u
 ## 🛠️ Tech Stack
 
 - **Backend:** Spring Boot, Spring WebSocket, Spring MVC  
-- **Frontend:** (Optional) HTML, CSS, JavaScript, Thymeleaf (or React/Vue if you built it separately)  
-- **Build Tool:** Maven or Gradle  
+- **Frontend:** -  
+- **Build Tool:** Maven  
 - **Database:** (Optional) H2 / MySQL / PostgreSQL for user data persistence  
 
 ---
