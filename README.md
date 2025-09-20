@@ -20,7 +20,6 @@ A **real-time chat application** built with **Spring Boot**, allowing multiple u
 - **Backend:** Spring Boot, Spring WebSocket, Spring MVC  
 - **Frontend:** -  
 - **Build Tool:** Maven  
-- **Database:** (Optional) H2 / MySQL / PostgreSQL for user data persistence  
 
 ---
 
